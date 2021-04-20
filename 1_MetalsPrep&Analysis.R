@@ -11,7 +11,7 @@ library("tidyverse")
 library("MASS") # MASS package for stepAIC function
 
 # Read in data table
-TTT <- read.csv("TTTmetals.csv")
+TTT <- read.csv("data/TTTmetals.csv")
 
 summary(TTT)
 str(TTT)

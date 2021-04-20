@@ -1,0 +1,149 @@
+Mo,Day,Year,MoonPhase,Location,Area,State,Structure,StructureType,StructureID,SampleID,Weight,FilletedWt,SL,TL,Sex,GonadWt,IPFWt,Flag
+6,20,2014,waning crescent,Portersville Bay,E_MS_Sound,AL,Structure,Structure,,AT051,3.4,,408,509,M,3.33,3.68,N
+6,20,2014,waning crescent,Portersville Bay,E_MS_Sound,AL,Structure,Transient,floating log,AT052,,5.4,652,780,F,,153.466,N
+6,28,2014,waxing crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT053,,1.65,390,483,M,0.6,3.88,N
+6,29,2014,waxing crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,bamboo pole,AT054,,1.5,370,465,F,13.244,8.167,N
+6,29,2014,waxing crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT055,,1.6,380,478,M,0.73,6.096,N
+7,12,2014,full moon,Katrina Cut Area,E_MS_Sound,AL,Structure,Stationary,piling,AT056,3.22,,430,530,F,20.655,7.467,N
+7,12,2014,full moon,Gaillard Island,N_Mob_Bay,AL,Structure,Transient,floating log,AT057,2.87,,413,513,M,3.986,12.182,N
+7,12,2014,full moon,Katrina Cut Area,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT058,7.53,,545,666,F,,,N
+7,12,2014,full moon,Katrina Cut Area,E_MS_Sound,AL,Structure,Stationary,channel marker,AT059,4.8,,468,570,M,1.455,92.824,Y
+7,12,2014,full moon,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,buoy,AT060,2.55,,390,478,M,0.571,2.021,N
+7,12,2014,full moon,West DI,E_MS_Sound,AL,,,,AT061,7.02,,570,693,F,,,N
+7,12,2014,full moon,West DI,E_MS_Sound,AL,,,,AT062,2.17,,374,463,F,,,N
+7,18,2014,waning gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT063,2.81,,410,505,F,17.337,5.075,N
+7,20,2014,waning crescent,Katrina Cut Area,E_MS_Sound,AL,Structure,Stationary,beacon,AT064,7.84,,530,640,F,475.038,179.05,N
+7,20,2014,waning crescent,Katrina Cut Area,E_MS_Sound,AL,Structure,Transient,floating log,AT065,6.03,,530,634,M,5.906,241.535,N
+7,25,2014,waning crescent,offshore,GOM,GOM,Structure,Transient,floating cardboard,AT066,,1.5,371,468,M,2.8,0.0,N
+8,9,2014,waxing gibbous,Fowl River,S_Mob_Bay,AL,Structure,Stationary,piling,AT067,,2.1,440,543,F,24.5,154.4,N
+8,9,2014,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Transient,barge,AT068,,5.55,610,732,F,339.6,96.6,N
+8,9,2014,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,piling,AT069,,5,580,702,F,444.3,250,N
+8,9,2014,waxing gibbous,MS Sound,E_MS_Sound,AL,Structure,,,AT070,,3.8,530,649,M,3.4,458,N
+8,10,2014,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,piling,AT071,,3.35,462,575,F,23.7,292.3,N
+8,10,2014,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,,,AT072,,2.7,490,592,M,5.5,54.3,N
+8,10,2014,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,,,AT073,,4.9,550,673,F,600.2,222,N
+8,10,2014,waxing gibbous,MS Sound,E_MS_Sound,AL,Structure,,,AT074,,6.15,572,701,F,800.5,128.6,N
+8,16,2014,waning gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,piling,AT075,,1.6,402,510,M,0.2,2.3,N
+8,16,2014,waning gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,piling,AT076,,2.4,450,554,F,51,49.5,N
+8,23,2014,waning crescent,MS Sound,E_MS_Sound,AL,Structure,Stationary,piling,AT077,,3.1,445,552,F,17,67.1,N
+8,,2014,,MS Sound,E_MS_Sound,AL,Structure,Stationary,piling,AT078,,2.2,431,539,F,23.8,90.8,N
+9,13,2014,waning gibbous,unknown,unknown,,,,,AT079,,5.25,580,699,F,182.4,73.6,N
+9,13,2014,waning gibbous,unknown,unknown,,,,,AT080,,5.5,510,610,F,58,149.9,N
+9,13,2014,waning gibbous,unknown,unknown,,,,,AT081,,5.9,540,664,M,8.1,521.3,N
+5,9,2015,waning gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,duck blind,AT082,1.45,,332,418,F,8.058,,N
+5,9,2015,waning gibbous,Grand Bay,E_MS_Sound,AL,Structure,Stationary,buoy; submerged pipeline,AT083,2.35,,380,472,M,15.549,3.701,N
+5,9,2015,waning gibbous,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT084,1.95,,375,455,F,14.14,6.38,N
+5,9,2015,waning gibbous,Grand Bay,E_MS_Sound,AL,Structure,Stationary,buoy; submerged pipeline,AT085,5.7,,505,611,F,78.167,64.844,N
+6,28,2014,new moon,unknown,unknown,,Structure,Stationary,PVC pipe,AT086,3.9,,,521,,,,Y
+6,28,2014,new moon,unknown,unknown,,Structure,Stationary,PVC pipe,AT087,2.9,,,464,,,,Y
+7,10,2015,waning crescent,Grand Bay,E_MS_Sound,AL,Structure,Stationary,FAD Buoy,AT088,,3.05,540,640,M,6.43,492.9,N
+7,11,2015,waning crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,buoy,AT089,3.7,,445,547,M,1.856,79.706,N
+7,11,2015,waning crescent,Katrina Cut Area,E_MS_Sound,AL,Structure,Transient,tideline,AT090,2.35,,413,485,M,1.693,1.998,N
+7,11,2015,waning crescent,,N_Mob_Bay,AL,,,,AT091,3.4,,445,520,F,,,N
+7,11,2015,waning crescent,,S_Mob_Bay,AL,Structure,Transient,floating log,AT092,4.5,,490,572,M,6.607,110.505,N
+7,11,2015,waning crescent,Grand Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT093,2.9,,421,518,F,16.176,,N
+7,11,2015,waning crescent,offshore,GOM,GOM,,,,AT094,2.1,,385,471,F,15.643,,N
+7,17,2015,new moon,,S_Mob_Bay,AL,Structure,Stationary,piling,AT095,4.6,,470,579,F,95.322,55.691,N
+7,17,2015,new moon,,N_Mob_Bay,AL,,,,AT096,3.1,,404,499,F,18.78,25.162,N
+7,17,2015,new moon,,N_Mob_Bay,AL,Structure,Stationary,piling,AT097,4,,437,542,M,0.613,56.192,Y
+7,17,2015,new moon,,Mobile Bay,AL,Structure,Stationary,crab trap float,AT098,2.85,,384,477,F,11.634,0,N
+7,18,2015,waxing crescent,,N_Mob_Bay,AL,Structure,Stationary,crab trap float,AT099,3.9,,456,556,F,24.841,41.881,N
+7,18,2015,waxing crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT100,3.8,,454,554,F,23.191,38.522,N
+7,19,2015,waxing crescent,Heron Bay,E_MS_Sound,AL,Structure,Stationary,channel marker,AT101,3.1,,425,521,M,2.036,99.542,N
+7,19,2015,waxing crescent,,N_Mob_Bay,AL,Structure,Stationary,piling,AT102,9.7,,582,697,F,1001.1,69.476,N
+7,19,2015,waxing crescent,,S_Mob_Bay,AL,Structure,Transient,floating garbage,AT103,4.4,,465,560,F,30.982,59.008,N
+7,19,2015,waxing crescent,,S_Mob_Bay,AL,Structure,Transient,floating garbage,AT104,4,,442,541,M,3.281,183.322,N
+7,19,2015,waxing crescent,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,piling,AT105,0.95,,363,453,F,,,N
+5,17,2015,new moon,Heron Bay,E_MS_Sound,AL,Free Swimming,Swimming,,AT106,,0.95,323,409,M,1.661,0,N
+6,3,2015,full moon,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT107,,2.2,420,520,F,20.743,70.195,N
+6,4,2015,waning gibbous,,S_Mob_Bay,AL,Structure,Transient,Plywood FAD,AT108,,1.2,345,434,M,2.933,0,N
+7,11,2015,waning crescent,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT109,,2.15,440,544,F,22.07,56.824,N
+5,30,2015,waxing gibbous,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT110,,1.7,388,491,M,1.17,28.966,N
+5,30,2015,waxing gibbous,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT111,,1.95,410,516,F,18.631,48.416,N
+5,30,2015,waxing gibbous,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT112,,1.2,333,425,F,9.232,0,N
+6,20,2015,waxing crescent,Heron Bay,E_MS_Sound,AL,Free Swimming,Swimming,,AT113,,1.45,370,471,F,15.277,10.311,N
+5,12,2015,last quarter,Heron Bay,E_MS_Sound,AL,Structure,Stationary,PVC pipe,AT114,,1.1,362,461,F,12.138,2.848,N
+5,23,2015,waxing crescent,Heron Bay,E_MS_Sound,AL,Free Swimming,Swimming,,AT115,,1.3,380,475,F,13.152,20.096,N
+5,1,2016,last quarter,Heron Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT116,,1.3,368,455,F,70.03,2.149,N
+5,23,2016,waning gibbous,MS Sound,E_MS_Sound,AL,,,,AT117,,1.65,410,501,M,2.117,33.648,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT118,,1.5,390,479,M,0.983,1.227,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT119,,1.3,385,480,F,17.387,11.781,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT120,,1.3,370,462,F,14.022,0,Y
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT121,,1.15,368,451,,,,Y
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT122,,1.05,360,441,F,11.245,4.407,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT123,,1.7,455,560,M,2.975,78.175,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT124,,1.05,355,447,M,0.883,1.953,N
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT125,,1.3,367,458,F,5.979,4.364,Y
+5,21,2016,full moon,Shipp Island,W_MS_Sound,MS,Free Swimming,Transient,Tideline,AT126,,1.2,370,464,F,8.434,0.432,N
+5,22,2016,full moon,unknown,unknown,,Structure,Structure,,AT127,2.7,,400,501,F,21.879,18.465,N
+5,22,2016,full moon,unknown,unknown,,Free Swimming,Swimming,Tideline,AT128,5.9,2.85,475,583,F,41.46,45.366,Y
+5,22,2016,full moon,Middle Bay,S_Mob_Bay,AL,Structure,Stationary,Middle Bay lighthouse,AT129,3.2,1.05,365,450,M,0.468,4.45,Y
+5,22,2016,full moon,DI Bridge,S_Mob_Bay,AL,Structure,Stationary,Bridge,AT130,4.1,1.5,395,484,F,12.322,13.191,Y
+5,25,2016,waning gibbous,Heron Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT131,8.8,4.5,565,682,M,7.969,513.7,Y
+5,31,2016,waning crescent,Heron Bay,E_MS_Sound,AL,,,,AT132,,1.2,370,463,F,12.998,2.272,N
+5,27,2016,waning gibbous,unknown,unknown,AL,,,,AT133,,1.3,380,481,F,14.613,1.345,N
+6,7,2016,waxing crescent,unknown,unknown,AL,,,,AT134,,1,360,457,,,,Y
+6,7,2016,waxing crescent,unknown,unknown,AL,,,,AT135,,1.5,385,480,,,,Y
+6,21,2016,full moon,unknown,unknown,AL,,,,AT136,,1.65,380,471,F,16.564,1.557,N
+6,21,2016,full moon,unknown,unknown,AL,,,,AT137,,1.1,410,506,,,,Y
+6,21,2016,full moon,unknown,unknown,AL,,,,AT138,,2,410,510,F,16.886,2.576,N
+6,21,2016,full moon,unknown,unknown,AL,,,,AT139,,1.6,380,475,F,44.8,0,N
+6,23,2016,waning gibbous,unknown,unknown,AL,,,,AT140,,2.9,470,577,F,30.772,56.047,N
+6,24,2016,waning gibbous,unknown,unknown,AL,,,,AT141,,1.85,423,521,,,,Y
+7,9,2016,waxing crescent,,S_Mob_Bay,AL,Structure,Stationary,channel marker,AT142,7.6,,576,672,F,610.3,80.3,N
+7,9,2016,waxing crescent,,S_Mob_Bay,AL,Structure,Transient,floating board,AT143,2.96,,405,505,F,15.9,39.8,N
+7,9,2016,waxing crescent,,N_Mob_Bay,AL,Structure,,,AT144,4.6,,470,566,F,34,97.7,N
+7,9,2016,waxing crescent,,N_Mob_Bay,AL,Structure,,,AT145,4.3,,457,564,M,1.8,100.8,N
+7,11,2016,first quarter,unknown,unknown,AL,,,,AT146,,5.2,620,751,F,968.9,214.4,N
+7,13,2016,first quarter,Portersville Bay,E_MS_Sound,AL,Structure,,,AT147,,1.9,420,522,M,1.92,28.308,N
+7,13,2016,first quarter,Portersville Bay,E_MS_Sound,AL,Structure,,,AT148,,1.3,375,463,M,,,N
+7,15,2016,waxing gibbous,Causeway,N_Mob_Bay,AL,Structure,Transient,floating log,AT149,3.8,,429,515,F,28.648,111.683,N
+7,15,2016,waxing gibbous,Causeway,N_Mob_Bay,AL,Structure,Transient,floating log,AT150,3.4,,430,525,M,1.406,31.515,N
+7,15,2016,waxing gibbous,Middle Bay,S_Mob_Bay,AL,Structure,Stationary,platform,AT151,3.6,,457,555,M,1.334,60.333,N
+7,15,2016,waxing gibbous,E_MS_Sound,E_MS_Sound,AL,Structure,Stationary,buoy,AT152,10.5,,590,709,F,735.9,406.7,N
+7,15,2016,waxing gibbous,,S_Mob_Bay,AL,Structure,Transient,floating cork,AT153,1.8,,380,455,F,9.272,0,N
+7,15,2016,waxing gibbous,,N_Mob_Bay,AL,Structure,Transient,floating log,AT154,3.25,,410,500,M,1.855,87.104,N
+7,15,2016,waxing gibbous,,N_Mob_Bay,AL,,,,AT155,3.4,,440,530,M,1.035,62.523,N
+7,15,2016,waxing gibbous,Grand Bay,E_MS_Sound,AL,,,,AT156,1.95,,380,461,M,1.604,0,N
+7,15,2016,waxing gibbous,,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT157,4.5,,471,584,F,30.489,40.561,Y
+7,15,2016,waxing gibbous,Gaillard Island,N_Mob_Bay,AL,Structure,Stationary,piling,AT158,5.1,,490,602,F,46.081,29.154,N
+7,15,2016,waxing gibbous,,S_Mob_Bay,AL,Structure,Transient,floating log,AT159,4.1,,460,560,F,63.898,61.656,N
+7,15,2016,waxing gibbous,unknown,unknown,,Structure,Stationary,piling,AT160,1.75,,370,450,M,0.902,1.221,N
+7,15,2016,waxing gibbous,unknown,unknown,,Structure,Stationary,piling,AT161,2.1,,360,449,M,0.733,3.063,N
+7,15,2016,waxing gibbous,,W_MS_Sound,MS,Structure,Stationary,piling,AT162,2.2,,375,460,M,0.572,4.709,N
+7,15,2016,waxing gibbous,,W_MS_Sound,MS,Structure,Stationary,pipe,AT163,2.2,,389,477,F,10.71,25.935,N
+7,16,2016,waxing gibbous,DI Bridge,S_Mob_Bay,AL,Structure,Transient,wood,AT164,3.4,,430,525,M,1.369,29.413,N
+7,16,2016,waxing gibbous,,S_Mob_Bay,AL,,,,AT165,5.9,,575,662,M,6.158,94.139,N
+7,16,2016,waxing gibbous,,S_Mob_Bay,AL,,,,AT166,4.1,,459,562,F,19.674,84.202,N
+7,16,2016,waxing gibbous,,S_Mob_Bay,AL,,,,AT167,5.3,,520,602,F,34.664,170.474,N
+7,16,2016,waxing gibbous,,S_Mob_Bay,AL,,,,AT168,1.8,,370,462,M,1.011,2.929,N
+7,16,2016,waxing gibbous,,S_Mob_Bay,AL,,,,AT169,3.25,,445,511,F,14.621,49.952,N
+7,16,2016,waxing gibbous,Fort Morgan,S_Mob_Bay,AL,Structure,Stationary,platform,AT170,2.2,,400,490,M,1.7,3.508,N
+7,16,2016,waxing gibbous,offshore,GOM,GOM,Structure,Transient,grass/weed line,AT171,3.1,,430,529,M,3.358,18.908,N
+7,16,2016,waxing gibbous,offshore,GOM,GOM,Structure,Transient,grass/weed line,AT172,3.1,,439,521,M,2.864,8.692,N
+7,16,2016,waxing gibbous,offshore,GOM,GOM,Structure,Transient,grass/weed line,AT173,3.4,,454,550,M,4.31,86.003,N
+7,16,2016,waxing gibbous,Horn Island,W_MS_Sound,MS,Structure,Stationary,piling,AT174,5.1,,480,570,F,96.732,256.713,N
+7,16,2016,waxing gibbous,Horn Island,W_MS_Sound,MS,Structure,Stationary,piling,AT175,2.5,,400,494,F,17.119,16.524,N
+7,16,2016,waxing gibbous,Horn Island,W_MS_Sound,MS,Structure,Stationary,piling,AT176,2.1,,378,469,M,2.246,0,N
+7,16,2016,waxing gibbous,Bon Secor Bay,S_Mob_Bay,AL,Structure,Stationary,FAD Buoy,AT177,3.8,,455,555,M,3.326,211.898,N
+7,17,2016,waxing gibbous,Bon Secor Bay,S_Mob_Bay,AL,Structure,Stationary,piling,AT178,7.4,,544,655,M,8.04,496.6,N
+7,17,2016,waxing gibbous,Bon Secor Bay,S_Mob_Bay,AL,Structure,Stationary,Buoy #137,AT179,8.8,,600,682,F,448.9,99.903,N
+7,17,2016,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Transient,Bait Box,AT180,5.1,,482,593,F,85.819,150.275,N
+7,17,2016,waxing gibbous,offshore,GOM,GOM,Structure,Stationary,wood,AT181,9.6,,620,749,F,313.1,142.38,N
+7,17,2016,waxing gibbous,,N_Mob_Bay,AL,Structure,Stationary,piling,AT182,7.1,,560,669,F,276.443,32.137,N
+7,17,2016,waxing gibbous,,N_Mob_Bay,AL,Structure,Stationary,piling,AT183,6,,520,638,F,146.318,77.974,N
+7,17,2016,waxing gibbous,Horn Island,W_MS_Sound,MS,Structure,Transient,floating log,AT184,4.05,,469,555,M,2.24,141.7,N
+7,17,2016,waxing gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,channel marker,AT185,2.9,,425,524,F,17.9,12.138,N
+7,17,2016,waxing gibbous,unknown,unknown,AL,,,,AT186,,1.25,380,478,F,,,N
+7,17,2016,waxing gibbous,unknown,unknown,AL,,,,AT187,,1.55,395,495,M,,,N
+7,17,2016,waxing gibbous,unknown,unknown,AL,,,,AT188,,1.3,365,465,,,,Y
+8,16,2016,waxing gibbous,Point Clear,N_Mob_Bay,AL,,,,AT189,2.7,,398,490,,,,Y
+8,16,2016,waxing gibbous,Fowl River,S_Mob_Bay,AL,,,,AT190,2.2,,387,475,M,,,N
+8,21,2016,waning gibbous,DI Bridge,S_Mob_Bay,AL,Structure,Stationary,crab trap float,AT191,7.1,,530,648,F,313.3,52.033,N
+8,21,2016,waning gibbous,Portersville Bay,E_MS_Sound,AL,Structure,Stationary,crab trap float,AT192,3.3,,425,534,F,14.773,13.871,N
+8,21,2016,waning gibbous,Petit Bois,W_MS_Sound,MS,Free Swimming,,,AT193,2.6,,386,489,M,0.662,2.754,N
+8,21,2016,waning gibbous,Middle Bay,S_Mob_Bay,AL,Structure,Stationary,Middle Bay lighthouse,AT194,5.7,,500,610,F,34.357,210.952,N
+8,21,2016,waning gibbous,Bon Secor Bay,S_Mob_Bay,AL,Structure,,,AT195,3.5,,425,526,F,15.71,5.163,N
+9,3,2016,waxing crescent,Heron Bay,E_MS_Sound,AL,Structure,Stationary,crap trap float,AT196,4.17,2.45,440,548,F,22.214,51.024,N
+9,28,2016,waning crescent,unknown,unknown,AL,,,,AT197,,,470,581,M,3.795,386.2,N
+,,,,,,,,,,,,,,,,,,
